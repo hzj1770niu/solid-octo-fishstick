@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 21,
-  "versionName": "2.1.0",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.0.apk",
-  "sha": "45db1d6026c36ece43b94c51e2e2378061631850",
-  "changelog": "v2.1.0\n· 读屏双指左右滑翻页（无障碍标准方案）：TalkBack 开启时系统把双指滑动转成水平滚动动作，直接左右滑即可翻章，不用再找「下一章」按钮\n· 左滑=下一章，右滑=上一章"
+  "versionCode": 22,
+  "versionName": "2.1.1",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.1.apk",
+  "sha": "f27db549c4774c6ae27ad9694386d3975d7dfef4",
+  "changelog": "v2.1.1\n· 修复普通模式单指左右滑翻页失效（此前仅手势模式才响应滑动，现改为单指滑动始终可翻页）\n· 读屏双指左右滑翻页：左滑=下一章，右滑=上一章"
 }

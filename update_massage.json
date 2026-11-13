@@ -1,7 +1,8 @@
 {
   "package": "com.treecow.massage",
-  "versionCode": 20,
-  "versionName": "2.14",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.14.apk",
-  "changelog": "v2.14\n· 修复「检查更新」：改用多源回退(jsdelivr→GitHub raw→API)，任一源可用即可拿到更新信息\n· 相对 v2.13：更新检测更稳定，不再频繁提示「获取更新信息失败，请检查网络」"
+  "versionCode": 21,
+  "versionName": "2.15",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.15.apk",
+  "sha": "0807bc634bbb485631cf6fd4076523996e8ef0d0",
+  "changelog": "v2.15\n· 修复「打开安装界面失败」：更新下载完成后点安装闪退的 FileProvider 路径越界问题\n· 与阅读版同步修复"
 }

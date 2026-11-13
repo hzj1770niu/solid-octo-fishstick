@@ -1,7 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 18,
-  "versionName": "2.0.7",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.0.7.apk",
-  "changelog": "v2.0.7\n· 修复「读不了手机上安装的朗读引擎」：朗读引擎初始化失败时自动遍历所有已安装引擎降级切换，不再提示「未找到可用引擎」\n· 适配各品牌手机自带的语音合成引擎（小米/华为/讯飞等）"
+  "versionCode": 19,
+  "versionName": "2.0.8",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.0.8.apk",
+  "sha": "a3950b18372df3f6b24b9a75815cf5321269b737",
+  "changelog": "v2.0.8\n· 修复「打开安装界面失败」崩溃：更新下载完成后点安装闪退的 FileProvider 路径越界问题\n· 朗读引擎自动降级继续使用"
 }

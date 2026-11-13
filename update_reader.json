@@ -1,7 +1,7 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 16,
-  "versionName": "2.0.5",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.0.5.apk",
-  "changelog": "v2.0.5\n· 新增「检查更新」：设置页可检测新版本并一键下载安装\n· 修复：扫描版PDF OCR识别（升级ocr引擎，识别更稳定）"
+  "versionCode": 17,
+  "versionName": "2.0.6",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.0.6.apk",
+  "changelog": "v2.0.6\n· 修复「检查更新」：改用多源回退(jsdelivr→GitHub raw→API)，任一源可用即可拿到更新信息，不再频繁提示「获取更新信息失败，请检查网络」\n· 相对 v2.0.5：更新检测更稳定"
 }

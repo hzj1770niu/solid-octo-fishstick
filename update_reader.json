@@ -1,8 +1,7 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 28,
-  "versionName": "2.1.7",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.7.apk",
-  "sha": "36e59db59e49083f46dcf5eda2c49d78881c977d",
-  "changelog": "修复检查更新读不到最新版（GitHub API 实时源优先 + 带时间戳绕过 CDN 缓存）；界面入口整理：首页移除'关于'，关于/版本与远程书库入口移入设置页，移除远程书库'连接配置'按钮（未配置连接自动引导）。"
+  "versionCode": 29,
+  "versionName": "2.1.8",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.8.apk",
+  "changelog": "v2.1.8\n· 翻页播放真实翻书音效（不再播报页码）\n· 翻书音效可在阅读设置中开关，与翻页方式并列，默认开启\n· 右下角页码改为「第 X / 共 Y 读页」，与小说章节号区分，触摸可朗读\n· 目录条目先朗读章节标题、再读所在页码，快速定位更高效\n· 修复翻页焦点与内置语音相关交互\nv2.1.7\n· 修复检查更新读不到最新版（GitHub API 实时源优先 + 带时间戳绕过 CDN 缓存）"
 }

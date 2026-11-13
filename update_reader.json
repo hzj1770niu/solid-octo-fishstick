@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 24,
-  "versionName": "2.1.3",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.3.apk",
-  "sha": "fa32a36227210cfee5128ee9dc149e7aef4898ed",
-  "changelog": "v2.1.3\n· 读屏(TalkBack)双指左右滑翻页改用标准滚动动作(SCROLL_FORWARD/BACKWARD为主，SCROLL_RIGHT/LEFT兜底)，修复部分读屏实现下双指滑动被忽略的问题\n· 关读屏：单指左右滑翻页(左滑=下一章，右滑=上一章)；单击正文隐藏/显示控件\n· 翻页后自动把读屏焦点定位到正文首段，方便无缝续读"
+  "versionCode": 25,
+  "versionName": "2.1.4",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.4.apk",
+  "sha": "4734ad3bcbc9f41edec71e5c97316389bac638df",
+  "changelog": "v2.1.4\n· 修复读屏(TalkBack)双指翻页：无障碍滚动动作改挂到外层不可滚动容器(而非RecyclerView)，解决列表接管滚动动作导致翻章不触发的问题(对齐已验证可翻页方案的实现)\n· 读屏双指左右滑：左滑=下一章，右滑=上一章\n· 关读屏：单指左右滑翻页(左滑=下一章，右滑=上一章)，慢拖快甩均可"
 }

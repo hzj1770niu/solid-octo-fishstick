@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 23,
-  "versionName": "2.1.2",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.2.apk",
-  "sha": "b1a3a4479c65233e35846a7ff71d53a0",
-  "changelog": "v2.1.2\n· 修复普通模式单指左右滑动翻页彻底失效：改为按按下到抬起的总位移识别，慢速拖动(正常看书式滑动)也能翻页，不再依赖快速甩动\n· 读屏(TalkBack)双指左右滑翻页：左滑=下一章，右滑=上一章；双击隐藏/显示控件"
+  "versionCode": 24,
+  "versionName": "2.1.3",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.3.apk",
+  "sha": "fa32a36227210cfee5128ee9dc149e7aef4898ed",
+  "changelog": "v2.1.3\n· 读屏(TalkBack)双指左右滑翻页改用标准滚动动作(SCROLL_FORWARD/BACKWARD为主，SCROLL_RIGHT/LEFT兜底)，修复部分读屏实现下双指滑动被忽略的问题\n· 关读屏：单指左右滑翻页(左滑=下一章，右滑=上一章)；单击正文隐藏/显示控件\n· 翻页后自动把读屏焦点定位到正文首段，方便无缝续读"
 }

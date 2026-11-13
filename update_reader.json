@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 26,
-  "versionName": "2.1.5",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.5.apk",
-  "sha": "75bcb263fcc1d038949e112efa07af09e182680a",
-  "changelog": "v2.1.5\n· 彻底修复左右滑动翻页：无论开不开读屏，单指左右滑、双指滑动都能翻页，不用再只靠按钮\n· 翻页后给出'已切换到第X章'提示，方便确认\n"
+  "versionCode": 27,
+  "versionName": "2.1.6",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.6.apk",
+  "sha": "36e59db59e49083f46dcf5eda2c49d78881c977d",
+  "changelog": "v2.1.6\n· 界面与入口整理：首页去掉“关于”；关于/版本号、远程书库(SMB/WebDAV)统一收进设置页\n· 远程书库去掉容易混淆的“连接配置”入口，未配置连接时自动弹出配置引导\n"
 }

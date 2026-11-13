@@ -1,7 +1,7 @@
 {
   "package": "com.treecow.massage",
-  "versionCode": 19,
-  "versionName": "2.13",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.13.apk",
-  "changelog": "v2.13\n· 新增「检查更新」：设置页可检测新版本并一键下载安装\n· 相对 v2.10：锁屏可用系统媒体条控制计时；修手动结束偶发自动记账"
+  "versionCode": 20,
+  "versionName": "2.14",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.14.apk",
+  "changelog": "v2.14\n· 修复「检查更新」：改用多源回退(jsdelivr→GitHub raw→API)，任一源可用即可拿到更新信息\n· 相对 v2.13：更新检测更稳定，不再频繁提示「获取更新信息失败，请检查网络」"
 }

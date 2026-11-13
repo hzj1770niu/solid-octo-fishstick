@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.massage",
-  "versionCode": 21,
-  "versionName": "2.15",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.15.apk",
-  "sha": "0807bc634bbb485631cf6fd4076523996e8ef0d0",
-  "changelog": "v2.15\n· 修复「打开安装界面失败」：更新下载完成后点安装闪退的 FileProvider 路径越界问题\n· 与阅读版同步修复"
+  "versionCode": 22,
+  "versionName": "2.16",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.16.apk",
+  "sha256": "edb76008732cc8f4e0bcdf4e828af5f7da5ec3dec8ae407f54a3860587215805",
+  "changelog": "v2.16\n· 中途加时精简：只保留「加30分钟」一个按钮（删 60/90/120，需要可连点累加），界面更清爽不拥挤\n· 修复「退出软件」未退干净：退出后音量键快捷键不再误触发计时，重新打开应用自动恢复\n· 版本号与更新日志同步到位\nv2.15\n· 修复「打开安装界面失败」：更新下载完成后点安装闪退的 FileProvider 路径越界问题\n· 与阅读版同步修复"
 }

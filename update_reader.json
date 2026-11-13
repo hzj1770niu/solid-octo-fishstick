@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 20,
-  "versionName": "2.0.9",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.0.9.apk",
-  "sha": "f120b1716dd25e063bbbbf62ed73d77e3bff5eea",
-  "changelog": "v2.0.9\n· 修复双指滑动翻页无效：改用双指共同位移判定，消除两指间距干扰\n· 读屏下双指左滑/右滑可正常翻页"
+  "versionCode": 21,
+  "versionName": "2.1.0",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.0.apk",
+  "sha": "45db1d6026c36ece43b94c51e2e2378061631850",
+  "changelog": "v2.1.0\n· 读屏双指左右滑翻页（无障碍标准方案）：TalkBack 开启时系统把双指滑动转成水平滚动动作，直接左右滑即可翻章，不用再找「下一章」按钮\n· 左滑=下一章，右滑=上一章"
 }

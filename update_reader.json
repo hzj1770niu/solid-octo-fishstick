@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 19,
-  "versionName": "2.0.8",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.0.8.apk",
-  "sha": "a3950b18372df3f6b24b9a75815cf5321269b737",
-  "changelog": "v2.0.8\n· 修复「打开安装界面失败」崩溃：更新下载完成后点安装闪退的 FileProvider 路径越界问题\n· 朗读引擎自动降级继续使用"
+  "versionCode": 20,
+  "versionName": "2.0.9",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.0.9.apk",
+  "sha": "f120b1716dd25e063bbbbf62ed73d77e3bff5eea",
+  "changelog": "v2.0.9\n· 修复双指滑动翻页无效：改用双指共同位移判定，消除两指间距干扰\n· 读屏下双指左滑/右滑可正常翻页"
 }

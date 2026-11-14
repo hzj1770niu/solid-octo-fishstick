@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.massage",
-  "versionCode": 22,
-  "versionName": "2.16",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.16.apk",
-  "sha256": "edb76008732cc8f4e0bcdf4e828af5f7da5ec3dec8ae407f54a3860587215805",
-  "changelog": "v2.16\n· 中途加时精简：只保留「加30分钟」一个按钮（删 60/90/120，需要可连点累加），界面更清爽不拥挤\n· 修复「退出软件」未退干净：退出后音量键快捷键不再误触发计时，重新打开应用自动恢复\n· 版本号与更新日志同步到位\nv2.15\n· 修复「打开安装界面失败」：更新下载完成后点安装闪退的 FileProvider 路径越界问题\n· 与阅读版同步修复"
+  "versionCode": 23,
+  "versionName": "2.17",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/massage_v2.17.apk",
+  "sha256": "713f6e7fbf5cb877ea0661d90176ccec8c2f0da3e0b14131e973f23a989dbe5a",
+  "changelog": "v2.17\n· 更新安装更可靠：安装被拦截时可下拉通知栏点开「下载完成」直接再次安装，也能按提示找到下载包路径手动安装\n· 设置页新增「允许安装未知应用」：被拦截时一键跳转系统授权开关，开启后即可成功安装\nv2.16\n· 中途加时精简：只保留「加30分钟」一个按钮（删 60/90/120，需要可连点累加），界面更清爽不拥挤\n· 修复「退出软件」未退干净：退出后音量键快捷键不再误触发计时，重新打开应用自动恢复"
 }

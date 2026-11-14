@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 32,
-  "versionName": "2.1.11",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.11.apk",
-  "sha256": "3e1f483abc147197f845772ee67605c769db25ce0e6c144690e976e20f4d353a",
-  "changelog": "v2.1.11\n· 朗读修复：打开文档不再弹出「未找到可用语音引擎」误导提示\n· 语音引擎未就绪时自动延迟重试调用系统中文语音\n· 兜底改为双通道播报（announceForAccessibility + 无障碍事件），TalkBack 开启时朗读一定有声音\nv2.1.10\n· 版本更新通知栏推送：后台运行时发现新版本主动推送到通知栏\n· 首次打开自动检查：有新版本时第一次打开应用弹出「立即更新/取消」\n· 允许安装未知应用入口优化：跳转本应用设置详情页\n· 帮助文案修正：联网仅用于检查软件更新"
+  "versionCode": 33,
+  "versionName": "2.1.12",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.12.apk",
+  "sha256": "8b61d092218494937f87107acd1f4deb268712b639fb0e59efe467e0f58cbd01",
+  "changelog": "v2.1.12\n· 更新包完整性校验：下载后比对 sha256，坏包/截断不再直接报解析失败，会提示重新下载\nv2.1.11\n· 朗读修复：打开文档不再弹出「未找到可用语音引擎」误导提示\n· 语音引擎未就绪时自动延迟重试调用系统中文语音\n· 兜底改为双通道播报（announceForAccessibility + 无障碍事件），TalkBack 开启时朗读一定有声音"
 }

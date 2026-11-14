@@ -1,7 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 29,
-  "versionName": "2.1.8",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.8.apk",
-  "changelog": "v2.1.8\n· 翻页播放真实翻书音效（不再播报页码）\n· 翻书音效可在阅读设置中开关，与翻页方式并列，默认开启\n· 右下角页码改为「第 X / 共 Y 读页」，与小说章节号区分，触摸可朗读\n· 目录条目先朗读章节标题、再读所在页码，快速定位更高效\n· 修复翻页焦点与内置语音相关交互\nv2.1.7\n· 修复检查更新读不到最新版（GitHub API 实时源优先 + 带时间戳绕过 CDN 缓存）"
+  "versionCode": 30,
+  "versionName": "2.1.9",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.9.apk",
+  "sha256": "6d1fe3d7f6ce310942e172aae5afab554a058fd4c6ff1589177347e1d1813367",
+  "changelog": "v2.1.9\n· 朗读更可靠：点朗读时若系统语音引擎未就绪，先用读屏(TalkBack)通道立即读出，就绪后再补读，彻底解决「点了没反应」\n· 更新安装兜底：更新包下载后如自动安装被拦截，可下拉通知栏点开「下载完成」直接再次安装，也能看到下载包路径手动安装\n· 设置页新增「允许安装未知应用」，被拦截时一键跳转系统授权开关\nv2.1.8\n· 翻页播放真实翻书音效（不再播报页码）\n· 翻书音效可在阅读设置中开关，与翻页方式并列，默认开启\n· 右下角页码改为「第 X / 共 Y 读页」，与小说章节号区分，触摸可朗读\n· 目录条目先朗读章节标题、再读所在页码，快速定位更高效"
 }

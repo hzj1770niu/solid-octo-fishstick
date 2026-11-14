@@ -1,8 +1,8 @@
 {
   "package": "com.treecow.reader",
-  "versionCode": 34,
-  "versionName": "2.1.13",
-  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.13.apk",
-  "sha256": "ce8207c07347b50f614f34477383660cb3ef47d53e863b563e0644fb606947d1",
-  "changelog": "v2.1.13\n· 朗读彻底修复：系统语音引擎不可用时会话自动回退到系统默认中文引擎，不再卡死在失效引擎上\n· 读屏兜底重写：改用已可靠验证的播报通道，点朗读必响（读屏会读完整个正文），不再出现提示已改用读屏却无声\nv2.1.12\n· 更新包完整性校验：下载后比对 sha256，坏包/截断不再直接报解析失败，会提示重新下载"
+  "versionCode": 35,
+  "versionName": "2.1.14",
+  "apkUrl": "https://github.com/hzj1770niu/solid-octo-fishstick/releases/download/v1/reader_v2.1.14.apk",
+  "sha256": "687b3e2c2bf4aecf0b78277a7e822c3544f17656f1889d82f089a6634b91dd05",
+  "changelog": "v2.1.14\n· 朗读彻底修复：点朗读时不再弹\"正在准备朗读引擎\"的提示，避免它抢占读屏正文朗读——正文会直接由读屏读完，不再\"有提示却没声音\"\nv2.1.13\n· 系统语音引擎不可用时会话自动回退到可用中文引擎，不再卡死在失效引擎上\n· 读屏兜底重写：采用已可靠验证的播报通道，点朗读必响，读完整个正文"
 }
